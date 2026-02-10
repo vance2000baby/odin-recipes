@@ -1,1 +1,2 @@
-# odin-recipes
+This "Odin-Recipes" project is a showcase of what I've learned through HTML basics from "The Odin Project".
+In this project, I'm supposed to build a website with multiple links directed to different recipes via HTML.
